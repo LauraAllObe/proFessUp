@@ -20,3 +20,6 @@ Insert link here after compiled and uploaded to external source
     To Run: navigate to app directory (pro_fess_up) and enter 'npm start',
     exit browser or ctrl C to quit. Additionaly, navigate to server
     directory (server) and enter 'npm start', exit browser or ctrl C to quit. 
+
+## Demonstration Video:
+[![](https://drive.google.com/uc?export=view&id=1Tg4XQYhvvnl0qGURdPz8DAwKY_dZdOmB)](https://youtu.be/0SFSC4hThjk)
